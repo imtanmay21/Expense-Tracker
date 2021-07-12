@@ -1,5 +1,4 @@
 # Expense-Tracker
-***
 A Expense tracker which would make you keep in check with your expenses. Made using react.
 
 ## What does it do

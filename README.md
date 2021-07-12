@@ -10,4 +10,4 @@ The user can compare his/her expenses through the year through a chart and also 
 - Run `npm install`
 - Run `npm start`
 ## Check out the app here
-[a link](https://imtanmay21.github.io/Expense-Tracker/)
+[Expense Tracker](https://imtanmay21.github.io/Expense-Tracker/)

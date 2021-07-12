@@ -7,5 +7,5 @@ You can add expenses to it as per a date and the app would add expenses to a lis
 You can add numerous expenses on it and compare it with other expenses in the year which would help manage your expenses
 
 ## To run it
--npm install
--npm run
+- npm install
+- npm run

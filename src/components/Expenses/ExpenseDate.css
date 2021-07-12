@@ -1,0 +1,15 @@
+.expense-item__date {
+    background: #444;
+    width: 8rem;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.expense-item__date > div:last-child {
+    font-size: 2rem;
+}

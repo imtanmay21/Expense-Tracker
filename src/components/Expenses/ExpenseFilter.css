@@ -1,0 +1,16 @@
+.expense-filter {
+    padding: 2rem 1.2rem;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.expense-filter__menu {
+    color: #333;
+    background: #fff;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+    outline: none;
+}
